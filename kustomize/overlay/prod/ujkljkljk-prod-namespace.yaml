@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: ujkljkljk-prod
+  labels:
+    environment-id: env_969507d7-e370-4b37-af0a-9a6aa82da6e2
+    project-id: project_2974f9b6-45b0-4b52-9fa3-6a57b5f41663
+    project-name: ujkljkljk
+    environment-name: prod
+    organization-id: org_1c58789b-c98c-4917-b321-116968ec4f8e

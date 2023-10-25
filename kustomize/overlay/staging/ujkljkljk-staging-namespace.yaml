@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: ujkljkljk-staging
+  labels:
+    environment-id: env_5b650e72-ef99-491e-92ff-8fe3fc03da74
+    project-id: project_2974f9b6-45b0-4b52-9fa3-6a57b5f41663
+    project-name: ujkljkljk
+    environment-name: staging
+    organization-id: org_1c58789b-c98c-4917-b321-116968ec4f8e
